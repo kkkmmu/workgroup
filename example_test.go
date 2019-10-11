@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/heptio/workgroup"
+	"github.com/kkkmmu/workgroup"
 )
 
 func ExampleGroup_Run() {
